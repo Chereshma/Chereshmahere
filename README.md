@@ -4,7 +4,7 @@ Private repository for ITM class work
 Ch Reshma
 ![WhatsApp Image 2024-01-23 at 14 48 26](https://github.com/Chereshma/Chereshmahere/assets/156779291/1a7f6cc8-6a90-408c-a968-4c3cf2d53bd6)
 
-#What do you like?
+## What do you like?
 I like to do cooking in my free time
 ## Where are you from?
 I'm originally from Hyderabad
